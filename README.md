@@ -43,4 +43,4 @@ This endpoint takes a location specified as an address, and returns a list of pl
 
 ## Key Setup
 
-To set up the API, you will need to provide a Google Places API key in the config. This key is used for making requests to the Google Places API.
+To set up the API, you will need to provide a Google Maps API key in the config. This key is used for making requests to the Google services like Places API, Distance Matrix API, Geocoding API.
